@@ -10,6 +10,11 @@ The bangers, first picks and most broken cards:
 * Time Walk
 * Ancestral Recall
 
+# General stuff
+Fetchlands are great. You can start of a draft picking a couple of fetchlands and feel ok.  
+Manabases can be really good if you pick fetchlands / duals / shocklands / triomes highly.  
+Starting the draft trying to find one open color is good, like in normal draft.  
+
 # Archetypes
 
 ## White Wheenie (Mono White)
