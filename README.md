@@ -1,5 +1,6 @@
-# cube-guide
-#Vintage cube guide
+# Vintage cube guide
+
+Some introductory text
 
 The bangers, first picks and most broken cards:
 * Black Lotus
@@ -9,7 +10,7 @@ The bangers, first picks and most broken cards:
 * Time Walk
 * Ancestral Recall
 
-## Archetypes
+# Archetypes
 
 ## White Wheenie (Mono White)
 Aggro deck
