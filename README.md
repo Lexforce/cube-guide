@@ -2,22 +2,22 @@
 Vintage cube guide
 
 The bangers, first picks and most broken cards:
-Black Lotus
-The moxes
-Sol Ring
-Mana Crypt
-Time Walk
-Ancestral Recall
+* Black Lotus
+* The moxes
+* Sol Ring
+* Mana Crypt
+* Time Walk
+* Ancestral Recall
 
 
 White Wheenie (Mono White)
 Aggro deck
 Wants a low curve with mostly creatures and some good removal.
 Key-cards:
-Mother of Runes
-Thalia, guardian of thraben
-Adeline
-Swords to plowshares
+* [Mother of runes](https://scryfall.com/search?q=mother%20of%20runes)
+* [Thalia](https://scryfall.com/search?q=thalia,%20guardian)
+* Adeline
+* Swords to plowshares
 
 Green ramp
 Ramp deck / creature deck
