@@ -36,4 +36,4 @@ Entomb, unique in the archetype
 Reanimate, animate dead (the best 2 reanimate spells)
 Archon of Cruelty, griselbrand (the best 2 reanimate targets)
 
-![Alt text](https://scryfall.com/search?q=thalia,%20guardian)
+[Thalia](https://scryfall.com/search?q=thalia,%20guardian)
