@@ -3,12 +3,12 @@
 Some introductory text
 
 The bangers, first picks and most broken cards:
-* Black Lotus
-* The moxes
-* Sol Ring
-* Mana Crypt
-* Time Walk
-* Ancestral Recall
+* [Black Lotus](https://scryfall.com/search?q=Black%20Lotu)
+* [Mox Sapphire](https://scryfall.com/search?q=Mox%20sapp)/other moxen
+* [Sol Ring](https://scryfall.com/search?q=Sol%20Ring)
+* [Mana Crypt](https://scryfall.com/search?q=Mana%20Crypt)
+* [Time Walk](https://scryfall.com/search?q=Time%20Walk)
+* [Ancestral Recall](https://scryfall.com/search?q=Ancestral%20Reca)
 
 # General stuff
 Fetchlands are great. You can start of a draft picking a couple of fetchlands and feel ok.  
@@ -41,7 +41,7 @@ Great cards:
 ## Reanimator Black (can be BR, UB or other variations)
 Wants to reanimate a huge threat early in the game, supported by discard and good removal.  
 Great cards:
-* Entomb, unique in the archetype
-* Reanimate, animate dead (the best 2 reanimate spells)
-* Archon of Cruelty, griselbrand (the best 2 reanimate targets)
+* [Entomb](https://scryfall.com/search?q=Entomb), unique in the archetype
+* [Reanimate](https://scryfall.com/search?q=Reanimate), [Animate Dead](https://scryfall.com/search?q=Animate%20Dead) (the best 2 reanimate spells)
+* [Archon of Cruelty](https://scryfall.com/search?q=Archon%20of%20Crue), [Griselbrand](https://scryfall.com/search?q=Griselbrand) (the best 2 reanimate targets)
 
