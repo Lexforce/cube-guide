@@ -9,9 +9,9 @@ The bangers, first picks and most broken cards:
 * Time Walk
 * Ancestral Recall
 
-##Archetypes
+## Archetypes
 
-##White Wheenie (Mono White)
+## White Wheenie (Mono White)
 Aggro deck
 Wants a low curve with mostly creatures and some good removal.
 Key-cards:
@@ -20,7 +20,7 @@ Key-cards:
 * Adeline
 * Swords to plowshares
 
-##Green ramp
+## Green ramp
 Ramp deck / creature deck
 Wants to ramp into something big like a craterhoof behemoth.
 Craterhoof is a great wincon because it so easily wins the game with just a couple of creatures in play.
@@ -30,7 +30,7 @@ Key-cards:
 * Greens Sun's Zenith
 * Craterhoof behemoth
 
-##Reanimator Black (can be BR, UB or other variations)
+## Reanimator Black (can be BR, UB or other variations)
 Wants to reanimate a huge threat early in the game, supported by discard and good removal.
 Key-cards:
 * Entomb, unique in the archetype
