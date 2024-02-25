@@ -44,4 +44,5 @@ Great cards:
 * [Entomb](https://scryfall.com/search?q=Entomb), unique in the archetype
 * [Reanimate](https://scryfall.com/search?q=Reanimate), [Animate Dead](https://scryfall.com/search?q=Animate%20Dead) (the best 2 reanimate spells)
 * [Archon of Cruelty](https://scryfall.com/search?q=Archon%20of%20Crue), [Griselbrand](https://scryfall.com/search?q=Griselbrand) (the best 2 reanimate targets)
+* [Thoughtseize](https://scryfall.com/search?q=Thoughtseize)
 
