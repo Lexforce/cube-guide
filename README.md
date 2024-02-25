@@ -14,6 +14,8 @@ The bangers, first picks and most broken cards:
 Fetchlands are great. You can start of a draft picking a couple of fetchlands and feel ok.  
 Manabases can be really good if you pick fetchlands / duals / shocklands / triomes highly.  
 Starting the draft trying to find one open color is good, like in normal draft.  
+Pick cheap cards highly, i.e. most 5-drops are very replacable, 1-2-3 drops are more important to
+get first.
 
 # Archetypes
 
