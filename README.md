@@ -41,7 +41,7 @@ Great cards:
 ## Reanimator Black (can be BR, UB or other variations)
 Wants to reanimate a huge threat early in the game, supported by discard and good removal.  
 Great cards:
-* ![Entomb]([https://scryfall.com/search?q=Entomb](https://cards.scryfall.io/small/front/3/c/3caa9c55-5e3b-436b-84a9-b7ccebf63799.jpg?1675199594)), unique in the archetype
+* ![Entomb](https://cards.scryfall.io/small/front/3/c/3caa9c55-5e3b-436b-84a9-b7ccebf63799.jpg), unique in the archetype
 * [Reanimate](https://scryfall.com/search?q=Reanimate), [Animate Dead](https://scryfall.com/search?q=Animate%20Dead) (the best 2 reanimate spells)
 * [Archon of Cruelty](https://scryfall.com/search?q=Archon%20of%20Crue), [Griselbrand](https://scryfall.com/search?q=Griselbrand) (the best 2 reanimate targets)
 
