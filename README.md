@@ -30,13 +30,13 @@ Great cards:
 
 ## Green ramp
 Ramp deck / creature deck  
-Wants to ramp into something big like a craterhoof behemoth.  
+Wants to ramp with cards like [LLanowar Elves](https://scryfall.com/search?q=LLanowar%20elves) into something big like a craterhoof behemoth.  
 Craterhoof is a great wincon because it so easily wins the game with just a couple of creatures in play.  
 Great cards:
-* Llanowar Elves (or similar)
-* Natural Order
-* Greens Sun's Zenith
-* Craterhoof behemoth
+* [Rofellos](https://scryfall.com/search?q=Rofellos)
+* [Natural Order](https://scryfall.com/search?q=Natural%20Order)
+* [Green Sun's Zenith](https://scryfall.com/search?q=Green%20sun)
+* [Craterhoof Behemoth](https://scryfall.com/search?q=Craterhoof%20beh)
 
 ## Reanimator Black (can be BR, UB or other variations)
 Wants to reanimate a huge threat early in the game, supported by discard and good removal.  
