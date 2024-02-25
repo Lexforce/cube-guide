@@ -33,7 +33,7 @@ Ramp deck / creature deck
 Wants to ramp with cards like [LLanowar Elves](https://scryfall.com/search?q=LLanowar%20elves) into something big like a craterhoof behemoth.  
 Craterhoof is a great wincon because it so easily wins the game with just a couple of creatures in play.  
 Great cards:
-* [Rofellos](https://scryfall.com/search?q=Rofellos)
+* [Rofellos, Llanowar Emissary](https://scryfall.com/search?q=Rofellos,%20llano)
 * [Natural Order](https://scryfall.com/search?q=Natural%20Order)
 * [Green Sun's Zenith](https://scryfall.com/search?q=Green%20sun)
 * [Craterhoof Behemoth](https://scryfall.com/search?q=Craterhoof%20beh)
