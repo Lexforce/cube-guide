@@ -54,6 +54,7 @@ Great cards:
 * [Natural Order](https://scryfall.com/search?q=Natural%20Order)
 * [Green Sun's Zenith](https://scryfall.com/search?q=Green%20sun)
 * [Craterhoof Behemoth](https://scryfall.com/search?q=Craterhoof%20beh)
+* [Channel](https://scryfall.com/search?q=channel), can be insane with a big eldrazi
 
 ## Reanimator Black (can be BR, UB or other variations)
 Wants to reanimate a huge threat early in the game, supported by discard and good removal.  
