@@ -9,6 +9,8 @@ The bangers, first picks and most broken cards:
 * [Mana Crypt](https://scryfall.com/search?q=Mana%20Crypt)
 * [Time Walk](https://scryfall.com/search?q=Time%20Walk)
 * [Ancestral Recall](https://scryfall.com/search?q=Ancestral%20Reca)
+
+
 There are many other incredible strong cards of course:
 * [Mana Drain](https://scryfall.com/search?q=Mana%20Drain)
 * [Mana Vault](https://scryfall.com/search?q=Mana%20vault)
@@ -39,7 +41,7 @@ Great cards:
 Aggro deck with lots cheap creatuers and burn / reach instead of disruption.  
 Great cards:
 * [Lightning bolt](https://scryfall.com/search?q=lightning%20bolt)
-* [Ragavan](https://scryfall.com/search?q=ragavan)
+* [Ragavan](https://scryfall.com/search?q=ragavan,%20nimble)
 * [Fireblast](https://scryfall.com/search?q=fireblast)
 * [Sulfuric Vortex](https://scryfall.com/search?q=sulfuric%20vortex)
 
@@ -64,6 +66,7 @@ Great cards:
 ## Artifacts (ususally heavy blue)
 Abuse artifact synergy cards, ramp a lot!
 [Tinker](https://scryfall.com/search?q=tinker) can be very nuts with a good target like [Blightsteel Colossus](https://scryfall.com/search?q=blightsteel%20colossus)  
+Can be sick to have [Balance](https://scryfall.com/search?q=balance), if you have a lot of artifact mana.  
 Great cards:
 * [Tolarian Academy](https://scryfall.com/search?q=tolarian%20academy)
 * [Tinker](https://scryfall.com/search?q=tinker)
@@ -82,8 +85,10 @@ Combo with lots of mana generation, card draw and a storm finisher.
 Can be hard to put together.  
 Great cards:
 * [Brain Freeze](https://scryfall.com/search?q=brain%20freeze), the best storm card IMO
-* [High tide](https://scryfall.com/search?q=high%tide), with untap effects it generates a million mana
+* [High tide](https://scryfall.com/search?q=high%20tide), with untap effects it generates a million mana
 * [Time Spiral](https://scryfall.com/search?q=time%20Spiral)
 
-  
+# Card combos
+A non-complete list of combos
+
 
