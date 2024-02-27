@@ -86,7 +86,7 @@ Combo with lots of mana generation, card draw and a storm finisher.
 Can be hard to put together.  
 Great cards:
 * [Brain Freeze](https://scryfall.com/search?q=brain%20freeze), the best storm card IMO
-* [High tide](https://scryfall.com/search?q=high%20tide), with untap effects it generates a million mana
+* [High tide](https://scryfall.com/search?q=!"high%20tide"), with untap effects it generates a million mana
 * [Time Spiral](https://scryfall.com/search?q=time%20Spiral)
 
 # Card combos
