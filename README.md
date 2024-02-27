@@ -3,9 +3,9 @@
 Some introductory text
 
 The bangers, first picks and most broken cards:
-* [Black Lotus](https://scryfall.com/search?q=Black%20Lotu)
+* [Black Lotus](https://scryfall.com/search?q=!"Black%20Lotus")
 * [Mox Sapphire](https://scryfall.com/search?q=Mox%20sapp)/other moxen
-* [Sol Ring](https://scryfall.com/search?q=Sol%20Ring)
+* [Sol Ring](https://scryfall.com/search?q=!"Sol%20Ring")
 * [Mana Crypt](https://scryfall.com/search?q=Mana%20Crypt)
 * [Time Walk](https://scryfall.com/search?q=Time%20Walk)
 * [Ancestral Recall](https://scryfall.com/search?q=Ancestral%20Reca)
@@ -52,9 +52,9 @@ Craterhoof is a good wincon for thius deck because it so easily wins the game wi
 Great cards:
 * [Rofellos, Llanowar Emissary](https://scryfall.com/search?q=Rofellos,%20llano)
 * [Natural Order](https://scryfall.com/search?q=Natural%20Order)
-* [Green Sun's Zenith](https://scryfall.com/search?q=Green%20sun)
+* [Green Sun's Zenith](https://scryfall.com/search?q=Green%20sun's%20z)
 * [Craterhoof Behemoth](https://scryfall.com/search?q=Craterhoof%20beh)
-* [Channel](https://scryfall.com/search?q=channel), can be insane with a big eldrazi
+* [Channel](https://scryfall.com/search?q=!channel), can be insane with a big eldrazi
 
 ## Reanimator Black (can be BR, UB or other variations)
 Wants to reanimate a huge threat early in the game, supported by discard and good removal.  
