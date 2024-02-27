@@ -99,4 +99,5 @@ Use [Splinter Twin](https://scryfall.com/search?q=Splinter%20Twin) / [Kiki-Jiki]
 ## Instant mill
 [Underworld Breach](https://scryfall.com/search?q=underworld%20breach) + [Lion's eye Diamond](https://scryfall.com/search?q=lion's%20eye%20diamond) + [Brain Freeze](https://scryfall.com/search?q=brain%20freeze)  
 Cast breach, then mill yourself and replay diamond for mana a couple of times, building up storm. Point the final brain freeze at your opponent for the win!
-
+## Wheel + pain
+Casting any "wheel"-card like [Wheel of Fortune](https://scryfall.com/search?q=!"wheel%20of%20fortune") / [Timetwister](https://scryfall.com/search?q=!"timetwister"), while having [Narset](https://scryfall.com/search?q=narset,%20parter) or [Sheoldred](https://scryfall.com/search?q=sheoldred,%20the%20apocalypse) in play will wreck your opponent!
