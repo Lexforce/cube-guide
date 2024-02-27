@@ -93,6 +93,6 @@ Great cards:
 A non-complete list of combos  
 ## Twin combo
 A classic cube-combo.  
-Use [Splinter Twin](https://scryfall.com/search?q=Splinter%20Twin)/[Kiki-Jiki](https://scryfall.com/search?q=kiki-jiki,%20mirror) with [Deceiver Exarch](https://scryfall.com/search?q=deceiver%20exarch) / [Pestermite](https://scryfall.com/search?q=!pestermite) to generate infinite hasty creatures.
+Use [Splinter Twin](https://scryfall.com/search?q=Splinter%20Twin)/[Kiki-Jiki](https://scryfall.com/search?q=!"kiki-jiki,%20mirror%20breaker") with [Deceiver Exarch](https://scryfall.com/search?q=deceiver%20exarch) / [Pestermite](https://scryfall.com/search?q=!pestermite) to generate infinite hasty creatures.
 
 
