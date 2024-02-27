@@ -70,7 +70,7 @@ Abuse artifact synergy cards, ramp a lot!
 Can be sick to have [Balance](https://scryfall.com/search?q=balance), if you have a lot of artifact mana.  
 Great cards:
 * [Tolarian Academy](https://scryfall.com/search?q=tolarian%20academy)
-* [Tinker](https://scryfall.com/search?q=tinker)
+* [Tinker](https://scryfall.com/search?q=!tinker)
 * [Urza, Lord High Artificier](https://scryfall.com/search?q=Urza,%20lord%20high)
 
 ## Control (U + anything but G usually)
@@ -90,6 +90,9 @@ Great cards:
 * [Time Spiral](https://scryfall.com/search?q=time%20Spiral)
 
 # Card combos
-A non-complete list of combos
+A non-complete list of combos  
+## Twin combo
+A classic cube-combo.  
+Use [Splinter Twin](https://scryfall.com/search?q=Splinter%20Twin)/[Kiki-Jiki](https://scryfall.com/search?q=kiki-jiki,%20mirror) with [Deceiver Exarch](https://scryfall.com/search?q=deceiver%20exarch) / [Pestermite](https://scryfall.com/search?q=!pestermite) to generate infinite hasty creatures.
 
 
