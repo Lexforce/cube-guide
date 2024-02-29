@@ -66,7 +66,7 @@ Great cards:
 
 ## Artifacts (ususally heavy blue)
 Abuse artifact synergy cards, ramp a lot!
-[Tinker](https://scryfall.com/search?q=tinker) can be very nuts with a good target like [Blightsteel Colossus](https://scryfall.com/search?q=blightsteel%20colossus)  
+[Tinker](https://scryfall.com/search?q=!tinker) can be very nuts with a good target like [Blightsteel Colossus](https://scryfall.com/search?q=blightsteel%20colossus)  
 Can be sick to have [Balance](https://scryfall.com/search?q=!balance), if you have a lot of artifact mana.  
 [Upheaval](https://scryfall.com/search?q=!upheaval) can be devastating in this kind of deck also, tap all your mana, cast it then replay a bunch of stuff, gg.  
 Great cards:
