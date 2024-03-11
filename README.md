@@ -14,7 +14,7 @@ The bangers, first picks and most broken cards:
 There are many other incredible strong cards of course:
 * [Mana Drain](https://scryfall.com/search?q=Mana%20Drain)
 * [Mana Vault](https://scryfall.com/search?q=Mana%20vault)
-* [Force of Will](https://scryfall.com/search?q=force%of%will)
+* [Force of Will](https://scryfall.com/search?q=force%20of%20will)
 * [Demonic Tutor](https://scryfall.com/search?q=demonic%20tutor)
 
 # General stuff
