@@ -12,7 +12,7 @@ The bangers, first picks and most broken cards:
 
 
 There are many other incredible strong cards of course:
-* [Minsc & Boo](https://scryfall.com/search?q=Minsc%20&%20boo,%20timeless)
+* [Minsc & Boo](https://scryfall.com/search?q=!"Minsc%20&%20boo,%20timeless%20heroes")
 * [Forth Eorlingas](https://scryfall.com/search?q=Forth%20Eorlingas)
 * [Mana Drain](https://scryfall.com/search?q=Mana%20Drain)
 * [Mana Vault](https://scryfall.com/search?q=Mana%20vault)
