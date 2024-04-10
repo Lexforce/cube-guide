@@ -1,6 +1,8 @@
 # Vintage cube guide
 
 Some introductory text
+A link to another more in-depth guide:
+https://draftsim.com/mtg-vintage-cube/
 
 The bangers, first picks and most broken cards:
 * [Black Lotus](https://scryfall.com/search?q=!"Black%20Lotus")
